@@ -1,6 +1,6 @@
-// Anne DeWulf 8/14/24
-// tripleInt.cpp
-// Made in 10 minutes
+// Anne DeWulf 8/21/24
+// sumTwoInts.cpp
+// Made in 5 minutes
 
 #include <thread>
 #include "iostream"

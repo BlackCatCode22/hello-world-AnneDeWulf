@@ -1,5 +1,5 @@
 // Anne DeWulf 8/21/24
-// userGreetingWithAge.cpp
+// userGreetingWithFunct.cpp
 // Made in ~10 minutes. Got inspired by the video we watched and just wanted to detail the user Greeting more, I suppose.
 
 #include <thread>

@@ -1,5 +1,5 @@
 // Anne DeWulf 8/21/24
-// sumTwoIntsVar.cpp
+// addTwoIntsFunct.cpp
 // Made in 5 minutes
 
 #include <thread>
